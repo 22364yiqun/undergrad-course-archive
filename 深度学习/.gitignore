@@ -1,0 +1,7 @@
+# Downloaded datasets and generated Python/IDE files
+/上机/第二次/data/
+/大作业/three_axial_attention/bearing/
+__pycache__/
+*.pyc
+.idea/
+*.pth
